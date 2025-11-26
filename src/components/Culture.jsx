@@ -37,14 +37,14 @@ export default function Culture({ className = "" }) {
           <div className="space-y-4">
             <div className="rounded-2xl overflow-hidden shadow-lg">
               <img
-                src="/culture1.webp"
+                src="culture1.webp"
                 alt="Zorg IT Office - Team Workspace"
                 className="w-full h-auto object-cover"
               />
             </div>
             <div className="rounded-2xl overflow-hidden shadow-lg">
               <img
-                src="/culture2.webp"
+                src="culture2.webp"
                 alt="Zorg IT Office - Open Area"
                 className="w-full h-auto object-cover"
               />
@@ -54,7 +54,7 @@ export default function Culture({ className = "" }) {
           {/* Right Column: One tall image */}
           <div className="rounded-2xl overflow-hidden shadow-lg row-span-2">
             <img
-              src="/culture3.webp"
+              src="culture3.webp"
               alt="Zorg IT Office - Creative Booth"
               className="w-full h-full object-cover"
             />

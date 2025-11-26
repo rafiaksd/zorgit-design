@@ -28,12 +28,12 @@ export default function Nav() {
           {/* Logo */}
           <a href="/" className="flex items-center gap-2">
             {/* The SVG now inherits Tailwind color via text-primary-50 or text-white */}
-            <img src="/zorg-logo.svg" alt="ZORG IT" className="h-8" />
+            <img src="zorg-logo.svg" alt="ZORG IT" className="h-8" />
           </a>
 
           {/* Desktop Menu */}
           <nav className="hidden lg:flex items-center gap-8 text-white font-medium">
-            <a href="" className="hover:text-primary-100 transition">Projects</a>
+            <a href="#projects" className="hover:text-primary-100 transition">Projects</a>
             <div className="relative group">
               <button className="flex items-center gap-1 hover:text-primary-100 transition">
                 Services

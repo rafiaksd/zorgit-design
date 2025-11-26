@@ -78,7 +78,7 @@ export default function WhyChooseUs({ className = "" }) {
           {/* Right: Office Photo */}
           <div className="relative rounded-3xl overflow-hidden shadow-2xl">
             <img
-              src="/office_setup.png"
+              src="office_setup.png"
               alt="Zorg IT Group Office"
               className="w-full h-auto object-cover"
             />

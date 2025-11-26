@@ -75,7 +75,7 @@ export default function Hero() {
         {/* Website preview */}
         <div className="scroll-fade relative mt-12 w-full max-w-5xl mx-auto pointer-events-none" data-delay="0.5">
           <img
-            src="/website_preview.png"
+            src="website_preview.png"
             alt="Website preview – before & after"
             className="w-full drop-shadow-2xl rounded-xl"
           />

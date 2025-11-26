@@ -12,7 +12,7 @@ export default function AboutSection({ className = "" }) {
           <div className="relative order-1 md:order-none">
             <div className="rounded-3xl overflow-hidden shadow-xl relative">
               <img
-                src="/profile1.webp"
+                src="profile1.webp"
                 alt="Abdul Rouf Jibon"
                 className="w-full h-auto object-cover"
               />
